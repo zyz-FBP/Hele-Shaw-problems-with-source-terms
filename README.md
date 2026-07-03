@@ -3,10 +3,12 @@ This repository contains the implementation of the methods described in our pape
 
 The provided codes display the boundary evolution dynamics and reproduce the main numerical examples from the paper:
 
-(1) 
+(1) FBP_exact_source.m - Circular case with exact radial source term shown in Figure 2
 
-(2) 
+(2) FBP_radial_approx.m - Circular case with approximate radial source term shown in Figure 4
 
-(3) 
+(3) FBP_tumor.m - Applications to tumor growth model shown in Figure 6 and Figure 7 with different values for the parameters, D_1 and D2.
+
+(4) FBP_nonradial_approx.m - Hele-Shaw free boundary problems with approximate nonradial source term shown in Figure 9.
 
 If you use this code in your work, please cite:
