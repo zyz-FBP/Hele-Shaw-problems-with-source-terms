@@ -12,3 +12,6 @@ The provided codes display the boundary evolution dynamics and reproduce the mai
 (4) FBP_nonradial_approx.m - Hele-Shaw free boundary problems with approximate nonradial source term shown in Figure 9.
 
 If you use this code in your work, please cite:
+
+@article{zhang2025geometric, title={A Geometric Local Parameterization Method for Generalized Hele-Shaw Free Boundary Problems with Source Terms}, author={Zhang, Zengyan and Hao, Wenrui and Harlim, John},
+journal={arXiv preprint at arXiv:2607.02880}, year={2026} }
