@@ -1,5 +1,5 @@
 # Geometric Local Parameterization Method for Generalized Hele–Shaw Free Boundary Problems with Source Terms
-This repository contains the implementation of the methods described in our paper (https://arxiv.org/abs/2607.02880v1). The project focuses on solving generalized Hele-Shaw problems with source terms on manifolds which are identified by point clouds. 
+This repository contains the implementation of the methods described in our paper (https://arxiv.org/abs/2607.02880). The project focuses on solving generalized Hele-Shaw problems with source terms on manifolds which are identified by point clouds. 
 
 The provided codes display the boundary evolution dynamics and reproduce the main numerical examples from the paper:
 
